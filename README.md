@@ -1,4 +1,7 @@
-### Hi there 👋
+### It is I, Melumi.
+I am currently in school.
+I'm interested in code, games, and the various other things you can see in my repositories.
+I can be contacted at Melumi@melumi.ml
 
 <!--
 **Melumi11/Melumi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
